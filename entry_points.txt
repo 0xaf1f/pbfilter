@@ -1,4 +1,0 @@
-[console_scripts]
-filter_artifacts.py = pbfilter.filter_artifacts:main
-filter_plsh5.py = pbfilter.filter_plsh5:main
-
